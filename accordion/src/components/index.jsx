@@ -2,7 +2,7 @@
 
 export default function Accordion(){
 
-    return <div>
-        Accordion
-    </div>
+    return  <div>
+                Accordion Menu
+            </div>
 }
